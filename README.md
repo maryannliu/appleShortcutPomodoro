@@ -22,7 +22,8 @@ Before using the shortcut:
 4. Right click on the shortcut and click **edit**
 5. Scroll down to find **Append text to ...**
 6. Change the note to the new note that you just created.
-7. Run the shortcut.
+7. Scroll down to the end to find **Open the ...**
+8. Change the note to the new note that you just created.
 
 
 ## 🧠 How It Works
