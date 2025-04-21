@@ -11,7 +11,7 @@ A customizable Pomodoro timer built with Apple Shortcuts. This shortcut helps yo
 ## 🛠 Setup Instructions
 Before using the shortcut:
 1. Open the **Notes** app on your iPhone or iPad.
-2. Create a new note titled exactly: `🍅 Pomodoro Log`
+2. Create a new note titled: `🍅 Pomodoro Log`
 3. This note will be used to track your daily focus time automatically.
 
 ## ⬇️ Installation 
@@ -19,6 +19,10 @@ Before using the shortcut:
 1. Download the [`MyPomodoro.shortcut`](./MyPomodoro.shortcut) file from this repository.
 2. Open the file on your iPhone or iPad using the **Shortcuts** app.
 3. Tap **"Add Shortcut"** to install it.
+4. Right click on the shortcut and click **edit**
+5. Scroll down to find **Append text to ...**
+6. Change the note to the new note that you just created.
+7. Run the shortcut.
 
 
 ## 🧠 How It Works
