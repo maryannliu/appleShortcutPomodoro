@@ -27,9 +27,9 @@ Before using the shortcut:
 
 ## 🎥 Video Tutorial
 
-[![Watch the tutorial](https://img.youtube.com/vi/abc123XYZ/0.jpg)]([https://www.youtube.com/watch?v=rDPNvEXOv_o)])
+Watch the full walkthrough on how to install and use this shortcut:  
+➡️ [https://www.youtube.com/watch?v=rDPNvEXOv_o](https://www.youtube.com/watch?v=rDPNvEXOv_o)
 
-Click the image above to watch a step-by-step walkthrough on how to install and use this shortcut.
 
 
 
