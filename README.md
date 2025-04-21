@@ -14,22 +14,33 @@ Before using the shortcut:
 2. Create a new note titled exactly: `🍅 Pomodoro Log`
 3. This note will be used to track your daily focus time automatically.
 
+## ⬇️ Installation 
+
+1. Download the [`MyPomodoro.shortcut`](./MyPomodoro.shortcut) file from this repository.
+2. Open the file on your iPhone or iPad using the **Shortcuts** app.
+3. Tap **"Add Shortcut"** to install it.
+
+
 ## 🧠 How It Works
-1. The shortcut asks how long you'd like to focus (default: 25 minutes).
-2. Then, it asks how many sessions you'd like to complete (default: 2).
-3. After each focus session, you get a 5-minute break.
-4. After the final session, you get a 10-minute break.
-5. Your total focused time is recorded in the 🍅 Pomodoro Log.
+
+1. Run the shortcut from the Shortcuts app or a widget.
+2. The shortcut asks how long you'd like to focus (default: 25 minutes).
+3. The shortcut asks how many sessions you'd like to complete (default: 2).
+4. A focus timer starts — time to get to work!
+5. When the timer ends, **return to the Shortcuts app**.
+6. You'll see a prompt that says **"Start your break"** — tap OK.
+7. A break timer starts (5 minutes for most, 10 minutes after the final session).
+8. When the break ends, **return to the Shortcuts app** to begin the next round.
+9. Steps 4–8 repeat until all sessions are completed.
+10. Your total focused time is recorded in the `🍅 Pomodoro Log` note.
+
 
 ## 📱 Requirements
 - iOS or iPadOS 15+
 - Shortcuts app
 - Notes app with a note titled `🍅 Pomodoro Log`
 
-## 📥 Installation
-1. Download the [`MyPomodoro.shortcut`](./MyPomodoro.shortcut) file.
-2. Open it using the **Shortcuts** app on your iPhone or iPad.
-3. Tap **"Add Shortcut"** and start your first focus session!
+
 
 ## ✨ Author
 Created by Mary Ann Liu.
