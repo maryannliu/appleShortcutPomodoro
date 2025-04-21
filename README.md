@@ -25,7 +25,12 @@ Before using the shortcut:
 7. Scroll down to the end to find **Open the ...**
 8. Change the note to the new note that you just created.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rDPNvEXOv_o?si=aeybHxTpCAKRGvrk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## 🎥 Video Tutorial
+
+[![Watch the tutorial](https://img.youtube.com/vi/abc123XYZ/0.jpg)]([https://www.youtube.com/watch?v=rDPNvEXOv_o)])
+
+Click the image above to watch a step-by-step walkthrough on how to install and use this shortcut.
+
 
 
 ## 🧠 How It Works
