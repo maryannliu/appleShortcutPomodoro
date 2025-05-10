@@ -16,7 +16,7 @@ Before using the shortcut:
 
 ## ⬇️ Installation 
 
-1. Download the [`MyPomodoro.shortcut`](./MyPomodoro.shortcut) file from this repository.
+1. Download the [`MyPomodoroV1.1.shortcut`](./MyPomodoroV1.1.shortcut) file from this repository.
 2. Open the file on your iPhone or iPad using the **Shortcuts** app.
 3. Tap **"Add Shortcut"** to install it.
 4. Right click on the shortcut and click **edit**
