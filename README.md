@@ -53,6 +53,8 @@ Watch the full walkthrough on how to install and use this shortcut:
 - Notes app with a note titled `🍅 Pomodoro Log`
 
 
+## ⚙️ Version Log 
+- v1.1 - 2025.5.10: Remove text after finishing a complete pomodoro and click "No, thank you!" as it can not calculate total length of focus after more than one pomodoro. 
 
 ## ✨ Author
 Created by Mary Ann Liu.
