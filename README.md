@@ -62,3 +62,4 @@ Created by Mary Ann Liu.
 ---
 
 > 💡 Inspired by the Pomodoro Technique — a time management method developed by Francesco Cirillo.
+> ☕️ Like what you are seeing? Support me by buying me a coffee: https://maryannliu.gumroad.com/coffee ☕️
